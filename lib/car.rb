@@ -1,5 +1,4 @@
-require_relative "./vehicle.rb"
-lass Car < Vehicle
+class Car < Vehicle
   def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
